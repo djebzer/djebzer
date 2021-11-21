@@ -1,5 +1,5 @@
-### 👋 Hi there!
-- 💬 Want to contact me? Here is my discord: `djebzer#1820`
+<!--### 👋 Hi there!
+- 💬 Want to contact me? Here is my discord: `djebzer#1820`-->
 
 ### 👨‍💻 Languages
 - <code><img title="HTML" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
