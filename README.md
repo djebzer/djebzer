@@ -15,6 +15,6 @@
 ### 🧰 Tools
 - <code><img title="NodeJS" height="20" src="https://img.icons8.com/fluency/2x/node-js.png"></code>
 <code><img title='Yarn' width='20' height='20' src='https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png'></code>
-<code><img title="React" height="20" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png"></code>
+<code><img title="React" height="20" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png"></code>
 <code><img title="Bootstrap" height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
 <code><img title="Storybook" height="20" src="https://blog.ineat-group.com/wp-content/uploads/2019/08/011fc620-4cb2-11e9-a51a-fdbb10b4cabb-e1567090000539.png"></code>
